@@ -23,9 +23,9 @@
 
 -Dataset kept intentionally small to highlight model behavior rather than accuracy.
 
-Text Generation Strategy
+**Text Generation Strategy**
 
-**Top-K Sampling**
+Top-K Sampling
 
 -Limits predictions to the top K most probable words, avoiding unlikely outputs.
 
