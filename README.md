@@ -22,13 +22,13 @@ A small real-world styled corpus inspired by blog and article text
 Dataset kept intentionally small to highlight model behavior rather than accuracy.
 
 Text Generation Strategy
-✅ Top-K Sampling
+Top-K Sampling
 
 -Limits predictions to the top K most probable words, avoiding unlikely outputs.
 
-🌡️ Temperature Scaling
+ Temperature Scaling
 
-Controls randomness:
+-Controls randomness:
 
 -Low temperature (<1.0) → safer, deterministic output
 
