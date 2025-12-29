@@ -1,6 +1,6 @@
 # Next-Word-Prediction
-A simple NLP project that predicts the next word in a sentence using sequence models.
-The project compares Simple RNN vs LSTM and uses Top-K sampling + Temperature scaling for natural text generation.
+-A simple NLP project that predicts the next word in a sentence using sequence models.
+-The project compares Simple RNN vs LSTM and uses Top-K sampling + Temperature scaling for natural text generation.
 
 **Features**
 
@@ -18,8 +18,8 @@ The project compares Simple RNN vs LSTM and uses Top-K sampling + Temperature sc
 
 **Dataset**
 
-A small real-world styled corpus inspired by blog and article text
-Dataset kept intentionally small to highlight model behavior rather than accuracy.
+-A small real-world styled corpus inspired by blog and article text
+-Dataset kept intentionally small to highlight model behavior rather than accuracy.
 
 Text Generation Strategy
 Top-K Sampling
